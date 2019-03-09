@@ -1,5 +1,7 @@
 # healthy-lifestyle
 
+Made with vue-cli3
+
 ## Project setup
 ```
 npm install
